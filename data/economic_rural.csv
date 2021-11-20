@@ -1,0 +1,231 @@
+﻿n,type,type_ge,employment,labour_force,population,year,rural_urban,rural_urban_ge,number
+1,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,1998,Urban,ქალაქი,503.9
+2,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,1999,Urban,ქალაქი,483.62
+3,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2000,Urban,ქალაქი,478.84
+4,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2001,Urban,ქალაქი,441.74
+5,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2002,Urban,ქალაქი,493
+6,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2003,Urban,ქალაქი,520.28
+7,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2004,Urban,ქალაქი,481.86
+8,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2005,Urban,ქალაქი,481.4
+9,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2006,Urban,ქალაქი,461.73
+10,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2007,Urban,ქალაქი,480.44
+11,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2008,Urban,ქალაქი,474.96
+12,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2009,Urban,ქალაქი,479.4
+13,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2010,Urban,ქალაქი,523.3
+14,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2011,Urban,ქალაქი,545.88
+15,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2012,Urban,ქალაქი,568.23
+16,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2013,Urban,ქალაქი,536.3
+17,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2014,Urban,ქალაქი,581.59
+18,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2015,Urban,ქალაქი,621.47
+19,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2016,Urban,ქალაქი,625.68
+20,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2017,Urban,ქალაქი,609.66
+21,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2018,Urban,ქალაქი,631.38
+22,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2019,Urban,ქალაქი,634.8
+23,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,1998,Urban,ქალაქი,208.15
+24,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,1999,Urban,ქალაქი,193.93
+25,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2000,Urban,ქალაქი,223.67
+26,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2001,Urban,ქალაქი,228.18
+27,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2002,Urban,ქალაქი,253.74
+28,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2003,Urban,ქალაქი,269.39
+29,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2004,Urban,ქალაქი,264.74
+30,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2005,Urban,ქალაქი,234.29
+31,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2006,Urban,ქალაქი,217.25
+32,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2007,Urban,ქალაქი,196.91
+33,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2008,Urban,ქალაქი,215.05
+34,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2009,Urban,ქალაქი,230
+35,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2010,Urban,ქალაქი,138.46
+36,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2011,Urban,ქალაქი,119.03
+37,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2012,Urban,ქალაქი,119.93
+38,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2013,Urban,ქალაქი,137.81
+39,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2014,Urban,ქალაქი,131.06
+40,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2015,Urban,ქალაქი,137.09
+41,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2016,Urban,ქალაქი,127.61
+42,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2017,Urban,ქალაქი,122.12
+43,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2018,Urban,ქალაქი,130.84
+44,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2019,Urban,ქალაქი,131.44
+45,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,1998,Urban,ქალაქი,10.5
+46,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,1999,Urban,ქალაქი,19.68
+47,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2000,Urban,ქალაქი,39.99
+48,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2001,Urban,ქალაქი,37.61
+49,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2002,Urban,ქალაქი,2.77
+50,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2003,Urban,ქალაქი,0.59
+51,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2004,Urban,ქალაქი,0.9
+52,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2005,Urban,ქალაქი,0.77
+53,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2006,Urban,ქალაქი,1.53
+54,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2007,Urban,ქალაქი,0
+55,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2008,Urban,ქალაქი,0.4
+56,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2009,Urban,ქალაქი,1.05
+57,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2010,Urban,ქალაქი,1.63
+58,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2011,Urban,ქალაქი,4.01
+59,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2012,Urban,ქალაქი,4.79
+60,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2013,Urban,ქალაქი,5.27
+61,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2014,Urban,ქალაქი,4.28
+62,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2015,Urban,ქალაქი,3.46
+63,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2016,Urban,ქალაქი,2.91
+64,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2017,Urban,ქალაქი,0.48
+65,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2018,Urban,ქალაქი,0.43
+66,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2019,Urban,ქალაქი,0.39
+67,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,1998,Urban,ქალაქი,204.76
+68,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,1999,Urban,ქალაქი,196.27
+69,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2000,Urban,ქალაქი,167.64
+70,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2001,Urban,ქალაქი,202.51
+71,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2002,Urban,ქალაქი,233.5
+72,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2003,Urban,ქალაქი,217.56
+73,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2004,Urban,ქალაქი,235.96
+74,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2005,Urban,ქალაქი,250.32
+75,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2006,Urban,ქალაქი,244.52
+76,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2007,Urban,ქალაქი,265.7
+77,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2008,Urban,ქალაქი,278.65
+78,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2009,Urban,ქალაქი,286.75
+79,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2010,Urban,ქალაქი,281.27
+80,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2011,Urban,ქალაქი,296.59
+81,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2012,Urban,ქალაქი,292.68
+82,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2013,Urban,ქალაქი,289.28
+83,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2014,Urban,ქალაქი,253.22
+84,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2015,Urban,ქალაქი,260.49
+85,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2016,Urban,ქალაქი,249.91
+86,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2017,Urban,ქალაქი,245.66
+87,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2018,Urban,ქალაქი,194.9
+88,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2019,Urban,ქალაქი,171.01
+89,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,1998,Urban,ქალაქი,710.22
+90,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,1999,Urban,ქალაქი,731.22
+91,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2000,Urban,ქალაქი,714.74
+92,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2001,Urban,ქალაქი,728.3
+93,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2002,Urban,ქალაქი,798.87
+94,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2003,Urban,ქალაქი,771.68
+95,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2004,Urban,ქალაქი,793.12
+96,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2005,Urban,ქალაქი,813.08
+97,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2006,Urban,ქალაქი,852.42
+98,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2007,Urban,ქალაქი,838.88
+99,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2008,Urban,ქალაქი,807.14
+100,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2009,Urban,ქალაქი,771.27
+101,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2010,Urban,ქალაქი,804.17
+102,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2011,Urban,ქალაქი,773.25
+103,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2012,Urban,ქალაქი,746.74
+104,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2013,Urban,ქალაქი,753.85
+105,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2014,Urban,ქალაქი,750.1
+106,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2015,Urban,ქალაქი,700.05
+107,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2016,Urban,ქალაქი,719.3
+108,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2017,Urban,ქალაქი,736.07
+109,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2018,Urban,ქალაქი,771.36
+110,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2019,Urban,ქალაქი,792.15
+111,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,1998,Rural,სოფელი,220.5
+112,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,1999,Rural,სოფელი,213.84
+113,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2000,Rural,სოფელი,205.05
+114,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2001,Rural,სოფელი,212.57
+115,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2002,Rural,სოფელი,167.06
+116,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2003,Rural,სოფელი,152.15
+117,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2004,Rural,სოფელი,154.38
+118,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2005,Rural,სოფელი,150.76
+119,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2006,Rural,სოფელი,146.66
+120,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2007,Rural,სოფელი,148.06
+121,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2008,Rural,სოფელი,146.85
+122,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2009,Rural,სოფელი,155.11
+123,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2010,Rural,სოფელი,186.66
+124,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2011,Rural,სოფელი,178.11
+125,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2012,Rural,სოფელი,191.19
+126,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2013,Rural,სოფელი,202.78
+127,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2014,Rural,სოფელი,213.87
+128,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2015,Rural,სოფელი,233.84
+129,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2016,Rural,სოფელი,228.17
+130,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2017,Rural,სოფელი,259.63
+131,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2018,Rural,სოფელი,272.09
+132,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2019,Rural,სოფელი,262.74
+133,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,1998,Rural,სოფელი,778.98
+134,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,1999,Rural,სოფელი,724.66
+135,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2000,Rural,სოფელი,817.57
+136,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2001,Rural,სოფელი,907.89
+137,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2002,Rural,სოფელი,834.71
+138,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2003,Rural,სოფელი,846.5
+139,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2004,Rural,სოფელი,828.27
+140,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2005,Rural,სოფელი,815.72
+141,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2006,Rural,სოფელი,790.55
+142,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2007,Rural,სოფელი,751.83
+143,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2008,Rural,სოფელი,759.33
+144,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2009,Rural,სოფელი,745.19
+145,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2010,Rural,სოფელი,316.72
+146,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2011,Rural,სოფელი,333.02
+147,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2012,Rural,სოფელი,325.22
+148,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2013,Rural,სოფელი,311.67
+149,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2014,Rural,სოფელი,321.96
+150,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2015,Rural,სოფელი,308.52
+151,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2016,Rural,სოფელი,306.77
+152,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2017,Rural,სოფელი,294.65
+153,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2018,Rural,სოფელი,261.34
+154,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2019,Rural,სოფელი,266.44
+155,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,1998,Rural,სოფელი,6.49
+156,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,1999,Rural,სოფელი,58.67
+157,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2000,Rural,სოფელი,72.09
+158,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2001,Rural,სოფელი,49.72
+159,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2002,Rural,სოფელი,0.8
+160,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2003,Rural,სოფელი,0.7
+161,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2004,Rural,სოფელი,0.66
+162,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2005,Rural,სოფელი,0.07
+163,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2006,Rural,სოფელი,0.34
+164,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2007,Rural,სოფელი,0.07
+165,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2008,Rural,სოფელი,0.67
+166,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2009,Rural,სოფელი,0.25
+167,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2010,Rural,სოფელი,0.85
+168,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2011,Rural,სოფელი,2.96
+169,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2012,Rural,სოფელი,2.83
+170,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2013,Rural,სოფელი,3.97
+171,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2014,Rural,სოფელი,2.19
+172,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2015,Rural,სოფელი,4.07
+173,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2016,Rural,სოფელი,3.38
+174,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2017,Rural,სოფელი,0.34
+175,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2018,Rural,სოფელი,0.16
+176,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2019,Rural,სოფელი,0.1
+177,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,1998,Rural,სოფელი,39.49
+178,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,1999,Rural,სოფელი,48.62
+179,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2000,Rural,სოფელი,44.37
+180,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2001,Rural,სოფელი,33.08
+181,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2002,Rural,სოფელი,40.18
+182,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2003,Rural,სოფელი,42.31
+183,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2004,Rural,სოფელი,42.67
+184,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2005,Rural,სოფელი,49.37
+185,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2006,Rural,სოფელი,49.38
+186,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2007,Rural,სოფელი,65.7
+187,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2008,Rural,სოფელი,68.77
+188,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2009,Rural,სოფელი,74.01
+189,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2010,Rural,სოფელი,154.89
+190,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2011,Rural,სოფელი,145.02
+191,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2012,Rural,სოფელი,149.8
+192,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2013,Rural,სოფელი,140.42
+193,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2014,Rural,სოფელი,120.81
+194,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2015,Rural,სოფელი,106.66
+195,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2016,Rural,სოფელი,109.32
+196,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2017,Rural,სოფელი,108.84
+197,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2018,Rural,სოფელი,114.09
+198,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2019,Rural,სოფელი,105.88
+199,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,1998,Rural,სოფელი,333.77
+200,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,1999,Rural,სოფელი,355.68
+201,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2000,Rural,სოფელი,377.59
+202,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2001,Rural,სოფელი,349.4
+203,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2002,Rural,სოფელი,345.27
+204,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2003,Rural,სოფელი,342.1
+205,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2004,Rural,სოფელი,356.85
+206,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2005,Rural,სოფელი,364.55
+207,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2006,Rural,სოფელი,393.49
+208,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2007,Rural,სოფელი,417.23
+209,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2008,Rural,სოფელი,405.23
+210,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2009,Rural,სოფელი,402.76
+211,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2010,Rural,სოფელი,706.83
+212,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2011,Rural,სოფელი,690.28
+213,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2012,Rural,სოფელი,655.88
+214,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2013,Rural,სოფელი,655.6
+215,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2014,Rural,სოფელი,652.52
+216,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2015,Rural,სოფელი,643.43
+217,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2016,Rural,სოფელი,636.38
+218,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2017,Rural,სოფელი,634.85
+219,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2018,Rural,სოფელი,657.67
+220,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2019,Rural,სოფელი,672.19
+221,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2020,Rural,სოფელი,245.5
+222,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2020,Rural,სოფელი,262.5
+223,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2020,Rural,სოფელი,0.2
+224,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2020,Rural,სოფელი,95.2
+225,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2020,Rural,სოფელი,708.9
+226,Hired,დაქირავებული,Employed,Active population (labour force),Total 15 + population,2020,Urban,ქალაქი,599.7
+227,Self-employed,თვითდასაქმებული,Employed,Active population (labour force),Total 15 + population,2020,Urban,ქალაქი,133.4
+228,Not-identified worker,Not-identified worker,Employed,Active population (labour force),Total 15 + population,2020,Urban,ქალაქი,0.5
+229,Unemployed,უმუშევარი,Unemployed,Active population (labour force),Total 15 + population,2020,Urban,ქალაქი,186.7
+230,Population outside labour force,მოსახლეობა სამუშაო ძალის გარეთ,Population outside labour force,Population outside labour force,Total 15 + population,2020,Urban,ქალაქი,785.9

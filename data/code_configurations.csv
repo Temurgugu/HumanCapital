@@ -1,0 +1,27 @@
+﻿Human_capital ,Economic_activities_general,Segments,Round
+Crop and livestock,Agriculture and fishing,14,(a) Economic activity * Human capital
+General working experience,Agriculture and fishing,3,(a) Economic activity * Human capital
+Physical work,Agriculture and fishing,1,(a) Economic activity * Human capital
+Local environment,Agriculture and fishing,1,(a) Economic activity * Human capital
+Beekeeping,Agriculture and fishing,1,(a) Economic activity * Human capital
+Cooking,Bakery,1,(a) Economic activity * Human capital
+"Hotel, restaurants and hospitality",Guesthouse,13,(a) Economic activity * Human capital
+"Finance, banking",Guesthouse,3,(a) Economic activity * Human capital
+Fundraising,Guesthouse,1,(a) Economic activity * Human capital
+Accounting and taxation,Guesthouse,1,(a) Economic activity * Human capital
+New language,Guesthouse,1,(a) Economic activity * Human capital
+Confectionery,Guesthouse,1,(a) Economic activity * Human capital
+Woodworking,Guesthouse,1,(a) Economic activity * Human capital
+Cooking,Guesthouse,1,(a) Economic activity * Human capital
+Laundry (service),Laundry service,2,(a) Economic activity * Human capital
+"Hotel, restaurants and hospitality",Laundry service,2,(a) Economic activity * Human capital
+Metal-plastic ,Manufacturing,2,(a) Economic activity * Human capital
+New/non-tradtional,Guesthouse,17,(b) Economic activity * Type of economic capital 
+New/non-tradtional,Agriculture and fishing,14,(b) Economic activity * Type of economic capital 
+Tradtional,Agriculture and fishing,4,(b) Economic activity * Type of economic capital 
+New/non-tradtional,Laundry service,4,(b) Economic activity * Type of economic capital 
+Tradtional,Guesthouse,3,(b) Economic activity * Type of economic capital 
+Household practice,Guesthouse,3,(b) Economic activity * Type of economic capital 
+New/non-tradtional,Manufacturing,2,(b) Economic activity * Type of economic capital 
+Household practice,Agriculture and fishing,1,(b) Economic activity * Type of economic capital 
+Household practice,Bakery,1,(b) Economic activity * Type of economic capital 
